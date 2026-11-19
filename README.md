@@ -16,6 +16,6 @@ Backend Developer building fintech automation and AI-agent integrations — Java
 
 | Project | What it does |
 |---|---|
-| [AssetFlow] | IT asset management system — dynamic asset types via EAV modelling, encrypted financial data, role-based approvals |
+| AssetFlow | IT asset management system — dynamic asset types via EAV modelling, encrypted financial data, role-based approvals |
 | Essence MCP Server | 39-tool MCP server connecting AI agents to 4 banking backend systems via one unified auth layer |
 | Ticket Booking Platform | Spring Boot + Redis backend solving N+1 queries and real-time seat availability at scale |
